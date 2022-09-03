@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Pankaj-birla
-- 👀 I’m interested in Java ,Web projects related Intership.
+- 👀 I’m interested in Java ,Web projects related Jobs.
 - 🌱 I have experienced in Java (Core+Advanced) over more than 6 months. 
 - 🌱 I’m currently learning Datastruture and algo using Java 
 - 💞️ I’m looking to collaborate on Java swing application projects and some web related projects also.
