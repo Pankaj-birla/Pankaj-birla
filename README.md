@@ -1,9 +1,8 @@
 - 👋 Hi, I’m @Pankaj-birla
-- 👀 I’m interested in Java ,Web projects related Jobs.
-- 🌱 I have experienced in Java (Core+Advanced) over more than 6 months. 
-- 🌱 I’m currently learning Datastruture and algo using Java 
-- 💞️ I’m looking to collaborate on Java swing application projects and some web related projects also.
-- 📫 If any opportunities regarding Java developer or Web developer please mail me at pankajbirla19@gmail.com
+- 💞️ I'm Software Developer at Siemens Pune
+- 👀 I’m expertise in Java, Javascript, React-flow technologies.
+- 🌱 I have experienced in Javascript, React-flow, TypeScript, NodeJs, Express over more than 1 year.    
+- 📫 If any opportunities regarding my expertise please mail me at pankajbirla19@gmail.com
 
 <!---
 Pankaj-birla/Pankaj-birla is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
