@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Pankaj-birla
 - 💞️ I'm Software Developer at Siemens Pune
-- 👀 I’m expertise in Java, Javascript, React-flow technologies.
-- 🌱 I have experienced in Javascript, React-flow, TypeScript, NodeJs, Express over more than 1 year.    
+- 👀 I’m expertise in Full Stack Developer Stack.
+- 🌱 I have experienced in Javascript, ReactJs, TypeScript, NodeJs, Express over more than 2 year.    
 - 📫 If any opportunities regarding my expertise please mail me at pankajbirla19@gmail.com
 
 <!---
